@@ -1,0 +1,23 @@
+.home{
+  background-image: url(../images/h_img.jpg);
+  height: 1000px;
+  color: white;
+}
+
+.middle {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  text-align: center;
+}
+.about{
+  text-align: center;
+}
+.service{
+  background-image: url(../images/s_image.jpg);
+  text-align: center;
+  height: 400px;
+  color: white;
+  padding-bottom: 50px;
+}
+
