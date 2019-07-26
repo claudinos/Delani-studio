@@ -29,4 +29,5 @@ Delani Studio is a studio that provides Software related services. It has a team
  
   https://claudinos.github.io/Delani-studio/ 
    
- 
+ ## SUPPORT AND CONTACT
+ Contact me :claudinos1990@gmail.com
