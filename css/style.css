@@ -31,6 +31,7 @@
   height: 680px;
   padding-top:60px;
   color: white;
+  background-color: transparent;
   
 
 }
@@ -44,11 +45,25 @@
   display: none;
 }
 textarea{
-  width:800px;
-  height:200px;
-
+  width:100%;
 }
-.col-sm-12{
-  height: 400px;
-}
-
+ #message{
+   height:300px;
+   background-color: transparent;
+   color:white;
+ }
+ #name{
+  background-color: transparent;
+  color:white;
+ }
+ #email{
+  background-color: transparent;
+  color:white;
+ }
+ #submit{
+  background-color: transparent;
+  color:white;
+ }
+ ::placeholder{
+   color:white;
+ }

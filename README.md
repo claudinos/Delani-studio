@@ -1,39 +1,33 @@
 # Delani-studio
 ### by **claudine umuhire**
 ## DESCRIPTION
-### Akan names
-Webside app that helps you to guess the day you were born on and give you a akan name depending on your gender,
-most people know the date of their birthday but they don't know the day of the week they were born!here is a way to calculate the day according to their birthday date
+### Delani-studio
+Delani Studio is a studio that provides Software related services. It has a team of qualified software engineers who develop and design high quality software, web and mobile applications.
 ## SETUP INSTALLATION REQUIRED
     *UBUNTU
     *VISIO CODE
     *GOOGLE CHROME
 
+
  ## TECHNOLOGY USED 
     * HTML 
     *CSS 
     *JAVA SCRIPT
+    *JQUERY
  ## BDD
 
- **Input birthday date**
- * Birthday  DAY must be a number 
-
- **Input birthday month**
-
- * Month must be a number
-
- **Input birthday year**
- * Year must be greater than zero
-
- **choose your gender**
- * Then click submit
+ **Input**
+    In this webpage, there is a form to fill, once there may be a webpage visitor who wants to release a message to Delani Studio.
+    It is required to fill the names (Example: ***claudine***)
+    Fill the valid email address (Example: ***email@Example.com***)
+    Type the message in the provided field for message, and finally click on ***send*** button.
 
  **output**
- * According to the input you have inserted the output must match with the Akan name of the gender you have choose
+ * The user will be alerted that the message has been received or the invalid message
 
  ## MY PROJECT LINK
  
-   https://claudinos.github.io/Akan-names/  
+  https://claudinos.github.io/Delani-studio/ 
    
  ## SUPPORT AND CONTACT
  Contact me :claudinos1990@gmail.com
