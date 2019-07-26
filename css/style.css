@@ -43,4 +43,12 @@
 #two{
   display: none;
 }
+textarea{
+  width:800px;
+  height:200px;
+
+}
+.col-sm-12{
+  height: 400px;
+}
 
