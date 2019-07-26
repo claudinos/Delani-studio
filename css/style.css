@@ -19,8 +19,8 @@
   text-align: center;
   height: 400px;
   color: white;
-  padding-bottom: 50px;
-  padding-top:60px;
+  padding-bottom: 70px;
+  padding-top:110px;
 }
 .row{
   margin:20px;
@@ -30,6 +30,7 @@
   background-image: url("../images/c_image.jpg");
   height: 680px;
   padding-top:60px;
+  color: white;
   
 
 }
@@ -38,5 +39,8 @@
 }
 .food{
   width:240px;
+}
+#two{
+  display: none;
 }
 
