@@ -9,4 +9,9 @@ Delani Studio is a studio that provides Software related services. It has a team
     *GOOGLE CHROME
 
 
+ ## TECHNOLOGY USED 
+    * HTML 
+    *CSS 
+    *JAVA SCRIPT
+    *JQUERY
  
