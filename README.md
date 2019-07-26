@@ -31,3 +31,6 @@ Delani Studio is a studio that provides Software related services. It has a team
    
  ## SUPPORT AND CONTACT
  Contact me :claudinos1990@gmail.com
+
+ ## LICENCE 
+ Licenced by MIT copyright @ 2019 ** claudine umuhire**  
