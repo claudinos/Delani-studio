@@ -1,5 +1,5 @@
 .home{
-  background-image: url(../images/h_img.jpg);
+  background-image: url("../images/h_img.jpg");
   height: 1000px;
   color: white;
 }
@@ -12,12 +12,31 @@
 }
 .about{
   text-align: center;
+  height: 250px;
 }
 .service{
-  background-image: url(../images/s_image.jpg);
+  background-image: url("../images/s_image.jpg");
   text-align: center;
   height: 400px;
   color: white;
   padding-bottom: 50px;
+  padding-top:60px;
+}
+.row{
+  margin:20px;
+  padding:10px;
+}
+.second{
+  background-image: url("../images/c_image.jpg");
+  height: 680px;
+  padding-top:60px;
+  
+
+}
+.third{
+  text-align: center;
+}
+.food{
+  width:240px;
 }
 
