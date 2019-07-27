@@ -41,7 +41,7 @@
 .food{
   width:240px;
 }
-#two{
+#two,#four,#six{
   display: none;
 }
 textarea{
@@ -59,6 +59,7 @@ textarea{
  #email{
   background-color: transparent;
   color:white;
+
  }
  #submit{
   background-color: transparent;
