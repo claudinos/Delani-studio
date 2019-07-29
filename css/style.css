@@ -71,18 +71,27 @@ textarea{
 
 #jan,#jan1,#jan2,#jan3,#jan4,#jan5,#jan6,#jan7{
   height: 100%;
-  background:black;
+  background-color:black;
   position: absolute;
-  width: 50%;
+  width: 100%;
   top:0;
+  left: 10%;
   display:none;
   opacity:0.8;
+  margin-right: 30px;
  
 }
  #ja,#ja1,#ja2,#ja3,#ja4,#ja5,#ja6,#ja7{
-  height: 100%;
+  height: 80%;
   background:black;
   position: absolute;
-  width: 50%;
+  top: 12px;
+  left: 12px;
+  width: 80%;
  display:none;
+ color:white;
+ border:3px solid white;
+ margin-left: 20px;
+ opacity:0.5;
+
 }
