@@ -31,6 +31,7 @@ $(document).ready(function () {
     $("#six").hide();
 
   });
+  // Alert message
   $("#submit").click(function (come) {
     var name = $("#name").val()
     var email = $("#email").val()
@@ -47,6 +48,8 @@ $(document).ready(function () {
 // $(document).ready(function(){
 
 // });
+
+    // Hover effect    
 
 $("#project").mouseout(function () {
   $("#project >h2").hide();

@@ -28,7 +28,7 @@ Delani Studio has a team of qualified software engineers who develop and design 
 
  ## MY PROJECT LINK
  
-  https://claudinos.github.io/Delani-studio/ 
+  https://claudinos.github.io/Delani-studio 
    
  ## SUPPORT AND CONTACT
  Contact me :claudinos1990@gmail.com
