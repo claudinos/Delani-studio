@@ -77,21 +77,21 @@ textarea{
   top:0;
   left: 10%;
   display:none;
-  opacity:0.8;
-  margin-right: 30px;
+  opacity:0.6;
+ 
  
 }
  #ja,#ja1,#ja2,#ja3,#ja4,#ja5,#ja6,#ja7{
   height: 80%;
   background:black;
   position: absolute;
-  top: 12px;
-  left: 12px;
+  top:0;
+  left: 10px;
   width: 80%;
  display:none;
  color:white;
  border:3px solid white;
  margin-left: 20px;
- opacity:0.5;
+ opacity:0.6;
 
 }
