@@ -66,4 +66,23 @@ textarea{
   background-color: transparent;
   color:white;
  }
+ #project,#project1,#project2,#project3,#project4,#project5,#project6,#project7{
+  position:relative;}
+
+#jan,#jan1,#jan2,#jan3,#jan4,#jan5,#jan6,#jan7{
+  height: 100%;
+  background:black;
+  position: absolute;
+  width: 50%;
+  top:0;
+  display:none;
+  opacity:0.8;
  
+}
+ #ja,#ja1,#ja2,#ja3,#ja4,#ja5,#ja6,#ja7{
+  height: 100%;
+  background:black;
+  position: absolute;
+  width: 50%;
+ display:none;
+}

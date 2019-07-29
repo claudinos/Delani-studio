@@ -35,11 +35,11 @@ $(document).ready(function () {
     var name = $("#name").val()
     var email = $("#email").val()
     var message = $("#message").val();
-    if (name !== "" || email !== ""|| message !== "") {
-      alert(name + " we have received your message. Thank you for reaching out to us.");
+    if (name !== "" || email !== "" || message !== "") {
+      alert(name + email + " we have received your message. Thank you for reaching out to us.");
     }
     else {
-      alert("fill the form!" );
+      alert("fill the form!");
     }
     come.preventDefault();
   });
@@ -47,3 +47,14 @@ $(document).ready(function () {
 // $(document).ready(function(){
 
 // });
+
+  $("#project").mouseout(function () {
+    $("#project >h2").hide();
+    $("#project >p").hide();
+  })
+  $("#project").mouseover(function () {
+    $("#project >h2").show();
+    $("#project >p").show();
+  });
+
+
