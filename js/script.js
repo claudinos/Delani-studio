@@ -35,7 +35,7 @@ $(document).ready(function () {
     var name = $("#name").val()
     var email = $("#email").val()
     var message = $("#message").val();
-    if ((name !== "") || (email !== "") || (message !== "")) {
+    if (name !== "" || email !== ""|| message !== "") {
       alert(name + " we have received your message. Thank you for reaching out to us.");
     }
     else {
